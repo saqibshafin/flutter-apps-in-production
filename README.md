@@ -8,6 +8,11 @@ https://itsallwidgets.com/
 - Sony's fork of the Flutter engine
 
 ## Desktop
+Appflowy (both Flutter and Tauri versions)
+- https://www.appflowy.io/
+- https://github.com/AppFlowy-IO
+- https://github.com/AppFlowy-IO/AppFlowy
+
 Reqable
 - https://reqable.com/en-US/
 - https://github.com/reqable
