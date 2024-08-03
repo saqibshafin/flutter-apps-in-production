@@ -20,6 +20,11 @@ Superlist
 - https://www.superlist.com/
 - https://github.com/superlistapp
 
+InvoiceNinja
+- https://invoiceninja.com/overview/
+- https://github.com/invoiceninja/admin-portal
+- https://demo.invoiceninja.com/
+
 ## Mobile
 
 ## Web
