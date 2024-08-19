@@ -33,3 +33,7 @@ InvoiceNinja
 ## Mobile
 
 ## Web
+Syncfusion Flutter Web demo
+- https://flutter.syncfusion.com/
+
+
